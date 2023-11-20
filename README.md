@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Beta-Belajar
-- 👀 I’m interested in web develeop, network penetration, web penetretion and IT Education
+- 👀 I’m interested in web developement, network penetration, web penetretion and IT Education
 - 🌱 I’m currently learning PHP, Laravel and Java Script
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
